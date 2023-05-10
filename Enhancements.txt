@@ -1,0 +1,22 @@
+Commit to Github initial project as completed from tutorial. create copy/BRANCH?!? (talk to wizard). keep orginal .exe for comparison.
+
+Change hitboxes to be circle and better
+enhance UI with smaller GUI, outline for health bar
+HP for healthbar
+
+create a UI class. is one already made?
+segment main loop into sections
+
+fix bug: shooting 2 at once.
+reload bug (disable reload when full + dont deduct full clip on half reload.
+
+level up switch statement
+
+add randomized sounds
+
+add multiple weapons. (weapon class)
+
+add development features
+godmode
+unlimited ammo
+
